@@ -1,0 +1,10 @@
+I0214 11:52:55.633059       1 log_file.go:93] Set log file max size to 104857600
+I0214 11:52:55.634806       1 controller.go:125] "Github Username: Jignyasa Mishra" PodName="antrea-controller-5dd5c48988-8sxnj"
+I0214 11:52:55.634866       1 controller.go:126] Starting Antrea Controller (version v2.0.0-dev-5dd97528.dirty)
+I0214 11:52:55.635165       1 client.go:89] No kubeconfig file was specified. Falling back to in-cluster config
+I0214 11:52:55.661627       1 selfsignedcert_provider.go:251] "Writing certificate and key to the cert directory"
+I0214 11:52:56.631767       1 prometheus.go:124] Initializing prometheus metrics
+I0214 11:52:56.632523       1 controller.go:152] "Starting" controller="EgressController"
+I0214 11:52:56.632637       1 shared_informer.go:270] Waiting for caches to sync for EgressController
+I0214 11:52:56.633381       1 log_file.go:121] Starting log file monitoring. Maximum log file number is 4
+I0214 11:52:56.633997       1 aggregator.go:352] Starting stats aggregator
